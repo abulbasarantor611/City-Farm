@@ -53,3 +53,74 @@ li{
     font-weight: 400; 
 }
 
+.icon{
+    width: 40px;
+    height: 40px;
+    border-radius: 40px;
+    background-color: rgb(0, 0, 0);
+    
+}
+.icon-1{
+    font-size: 20px;
+    color:#ffffff;
+    background-color: rgb(8, 8, 8);
+    border-radius: 50px;
+    margin-left: 13px;
+    margin-top: 10px;
+}
+.icon-2{
+    font-size: 20px;
+    color:#ffffff;
+    background-color: rgb(8, 8, 8);
+    border-radius: 50px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.icon-3{
+    font-size: 20px;
+    color:#ffffff;
+    background-color: rgb(8, 8, 8);
+    border-radius: 50px;
+    margin-left: 12px;
+    margin-top: 10px;
+}
+.icon-4{
+    font-size: 20px;
+    color:#ffffff;
+    background-color: rgb(8, 8, 8);
+    border-radius: 50px;
+    margin-left: 8px;
+    margin-top: 10px;
+}
+.icon-5{
+    font-size: 20px;
+    color:#ffffff;
+    background-color: rgb(8, 8, 8);
+    border-radius: 50px;
+    margin-left: 13px;
+    margin-top: 10px;
+}
+.icon-6{
+    font-size: 20px;
+    color:#ffffff;
+    background-color: rgb(8, 8, 8);
+    border-radius: 50px;
+    margin-left: 13px;
+    margin-top: 10px;
+}
+.icon-7{
+    font-size: 20px;
+    color:#ffffff;
+    background-color: rgb(8, 8, 8);
+    border-radius: 50px;
+    margin-left: 12px;
+    margin-top: 10px;
+}
+.icon-8{
+    font-size: 20px;
+    color:#ffffff;
+    background-color: rgb(8, 8, 8);
+    border-radius: 50px;
+    margin-left: 9px;
+    margin-top: 10px;
+}
