@@ -53,6 +53,95 @@ li{
     font-weight: 400; 
 }
 
+/* ================================================ */
+.container-hover{
+    position: relative;
+    overflow: hidden;
+}
+.card1-div2{
+    height: 269px; 
+    width: 269px; 
+    background-color: rgba(245, 245, 245,0.6);
+    z-index: 555;
+    color: #ffffff;
+    position: absolute;
+    transition: 0.3s ease-in-out;
+    cursor: pointer;
+}
+.card1-div2 {
+    display: flex;
+    justify-content: end;
+    align-items: start;
+}
+.container-hover:hover .card1-div2{
+   top: 0;
+}
+
+/* =================================================== */
+.container-hover{
+    position: relative;
+    overflow: hidden;
+}
+
+.card-1-div2-1{
+    display: none;
+}
+
+.card-1-div2 a{
+    text-decoration: none;
+    color:#939493;
+}
+ 
+
+
+.card-1-div2{
+    height: 174px; 
+    width: 174px; 
+    background-color: rgba(245, 245, 245,0.8);
+    z-index: 555;
+    font-weight: 600;
+    color: #212721;
+    text-align: center;
+    position: absolute;
+    top: 145px;
+    transition: 0.4s;
+    cursor: pointer;
+}
+
+.card-1-div2-1 h5, .card-1-div2-1 p{
+    font-size: 12px;
+    font-weight: 700;
+}
+
+.text{
+    font-size: 11px;
+    line-height: 0px;
+}
+.text2{
+    color: #212721;
+    font-weight: 700;
+}
+
+.container-hover:hover .card-1-div2{
+    top: 0;
+    bottom: 0;
+}
+
+.container-hover:hover .card-1-div2-1{
+    display: block;
+    
+}
+
+.container-hover:hover .hover-pic{
+    display: none;
+
+}
+
+
+/* ==================================================== */
+
+
+
 .icon{
     width: 40px;
     height: 40px;
@@ -124,3 +213,4 @@ li{
     margin-left: 9px;
     margin-top: 10px;
 }
+
